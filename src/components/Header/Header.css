@@ -17,3 +17,8 @@
 .header a:hover{
     color: orange;
 }
+
+.user-text{
+    color: white;
+    margin-left: 10px;
+}
